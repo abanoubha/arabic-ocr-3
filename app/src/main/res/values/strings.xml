@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Arabic OCR</string>
+    <string name="hello">أهلاً بك</string>
+    <string name="ocr_hint">اضغط هنا لكي تتعرف على الكلمات\nالمكتوبه على صورة من الكاميرا</string>
+    <string name="ocr_hint_gallery">اضغط هنا لكي تتعرف على الكلمات\nالمكتوبه على صورة من الأستوديو</string>
+    <string name="ps_hint">لاحظ: هذا التطبيق لا يمكنه التعرف\nعلى الكلام المكتوب بخط اليد</string>
+    <string name="tap_ocr_btn">اضغط على هذا الزر لكي تتعرف على\nالكلمات المكتوبه على الصورة</string>
+    <string name="camera">الكاميرا</string>
+    <string name="gallery">الأستوديو</string>
+    <string name="copyHint">اضغط على هذا الزر لكي تنسخ\nالكلمات التي تم التعرف عليها</string>
+    <string name="copied">تم نسخ النص بنجاح</string>
+    <string name="identifying">جاري التعرف على الكلمات...</string>
+    <string name="permissionHint">لابد أن توافق على إذن الذاكرة والكاميرا لكي تستطيع استخدام الكاميرا داخل التطبيق.</string>
+    <string name="image_to_ocr">image to ocr</string>
+    <string name="ocr_arrow">ocr arrow</string>
+    <string name="get_image_from_gallery">get image from gallery</string>
+    <string name="arrow_to_camera_icon">arrow to camera icon</string>
+    <string name="pdf">Convert PDF to Text</string>
+    <string name="showtxt">show the extracted text</string>
+    <string name="showimg">show the image</string>
+    <string name="ocrthencpy">OCR image then copy the extracted text</string>
+</resources>

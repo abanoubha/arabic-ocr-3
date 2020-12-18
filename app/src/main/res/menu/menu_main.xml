@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.abanoubhanna.ocr.arabic.MainActivity">
+    <item
+        android:id="@+id/pdf"
+        android:icon="@drawable/ic_pdf"
+        android:orderInCategory="100"
+        android:title="@string/pdf"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/camera"
+        android:icon="@drawable/ic_camera"
+        android:orderInCategory="200"
+        android:title="@string/camera"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/gallery"
+        android:icon="@drawable/ic_gallery"
+        android:orderInCategory="300"
+        android:title="@string/gallery"
+        app:showAsAction="ifRoom" />
+</menu>
